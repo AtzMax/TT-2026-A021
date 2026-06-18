@@ -39,7 +39,7 @@ Capturan imágenes infrarrojas del entorno para identificar variaciones de tempe
 Sensor Davis utilizado para la recolección de variables ambientales como:
 - Temperatura y humedad
 - Precipitación
-- Presión barométrica
+
 
 Toda la información del sensor es capturada de forma continua y almacenada para su análisis.
 La estación se encuentra en la Isla de Datos Urbanos en la Escuela Superior de Cómputo
