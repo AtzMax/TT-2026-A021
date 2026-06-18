@@ -85,7 +85,7 @@ TT-2026-A021/
 
 Proyecto Terminal Final — Generación 2026
 **Instituto Politécnico Nacional — ESCOM**
-Número de proyecto: **2026-A021**
+Número de proyecto: **2026-A021** 
 
 ---
 
