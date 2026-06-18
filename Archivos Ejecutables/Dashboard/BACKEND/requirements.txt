@@ -1,0 +1,6 @@
+flask
+flask-cors
+xgboost
+pandas
+numpy
+python-dotenv

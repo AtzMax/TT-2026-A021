@@ -1,0 +1,1 @@
+{"umbral_anomalia": 11.85, "columnas_entrenamiento": ["temp", "hum", "pm10", "aqi", "pm1", "pm25_lag_1", "pm10_lag_1", "pm25_lag_2", "pm10_lag_2", "pm25_lag_3", "pm10_lag_3", "diff_pm25", "rolling_mean_pm25", "rolling_std_pm25", "hour", "day_of_week", "time_gap"]}

@@ -1,0 +1,379 @@
+{
+  "fuente": "static_fallback",
+  "generado": "2026-05-18T03:11:09.461011",
+  "nota": "Datos estáticos de prueba. Reemplazar con datos reales de Supabase cuando timestamps sean únicos.",
+  "total_registros": 37,
+  "prediccion_horizonte_min": 60,
+  "lecturas": [
+    {
+      "timestamp": "2026-05-17T08:00:00",
+      "aqi": 94.36,
+      "pm1": 29.05,
+      "pm25": 39.37,
+      "pm10": 52.93,
+      "temperatura": 19.45,
+      "humedad": 50.2,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:05:00",
+      "aqi": 95.15,
+      "pm1": 28.6,
+      "pm25": 39.56,
+      "pm10": 52.97,
+      "temperatura": 19.59,
+      "humedad": 53.4,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:10:00",
+      "aqi": 95.66,
+      "pm1": 28.03,
+      "pm25": 40.34,
+      "pm10": 52.99,
+      "temperatura": 19.6,
+      "humedad": 53.57,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:15:00",
+      "aqi": 94.49,
+      "pm1": 27.0,
+      "pm25": 39.53,
+      "pm10": 54.42,
+      "temperatura": 19.38,
+      "humedad": 52.59,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:20:00",
+      "aqi": 95.91,
+      "pm1": 28.99,
+      "pm25": 39.92,
+      "pm10": 54.65,
+      "temperatura": 19.81,
+      "humedad": 50.66,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:25:00",
+      "aqi": 95.29,
+      "pm1": 26.57,
+      "pm25": 37.75,
+      "pm10": 45.72,
+      "temperatura": 19.13,
+      "humedad": 53.05,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:30:00",
+      "aqi": 95.39,
+      "pm1": 26.53,
+      "pm25": 38.24,
+      "pm10": 53.31,
+      "temperatura": 19.47,
+      "humedad": 51.65,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:35:00",
+      "aqi": 94.32,
+      "pm1": 29.76,
+      "pm25": 40.84,
+      "pm10": 56.42,
+      "temperatura": 19.76,
+      "humedad": 52.57,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:40:00",
+      "aqi": 92.91,
+      "pm1": 27.82,
+      "pm25": 37.95,
+      "pm10": 50.29,
+      "temperatura": 19.4,
+      "humedad": 54.8,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:45:00",
+      "aqi": 92.49,
+      "pm1": 28.2,
+      "pm25": 37.2,
+      "pm10": 51.75,
+      "temperatura": 19.7,
+      "humedad": 53.0,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:50:00",
+      "aqi": 96.45,
+      "pm1": 28.53,
+      "pm25": 40.37,
+      "pm10": 51.65,
+      "temperatura": 19.88,
+      "humedad": 50.27,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T08:55:00",
+      "aqi": 93.86,
+      "pm1": 29.38,
+      "pm25": 39.8,
+      "pm10": 53.1,
+      "temperatura": 19.73,
+      "humedad": 54.79,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:00:00",
+      "aqi": 94.84,
+      "pm1": 27.19,
+      "pm25": 38.92,
+      "pm10": 51.41,
+      "temperatura": 19.88,
+      "humedad": 51.32,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:05:00",
+      "aqi": 93.51,
+      "pm1": 28.79,
+      "pm25": 40.4,
+      "pm10": 53.09,
+      "temperatura": 18.76,
+      "humedad": 50.7,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:10:00",
+      "aqi": 92.53,
+      "pm1": 28.41,
+      "pm25": 39.49,
+      "pm10": 55.69,
+      "temperatura": 19.6,
+      "humedad": 52.2,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:15:00",
+      "aqi": 95.42,
+      "pm1": 28.81,
+      "pm25": 41.41,
+      "pm10": 56.46,
+      "temperatura": 19.86,
+      "humedad": 52.46,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:20:00",
+      "aqi": 95.58,
+      "pm1": 28.51,
+      "pm25": 40.1,
+      "pm10": 58.04,
+      "temperatura": 20.14,
+      "humedad": 52.14,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:25:00",
+      "aqi": 92.36,
+      "pm1": 28.13,
+      "pm25": 37.1,
+      "pm10": 49.78,
+      "temperatura": 19.83,
+      "humedad": 52.83,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:30:00",
+      "aqi": 88.92,
+      "pm1": 27.11,
+      "pm25": 38.41,
+      "pm10": 52.97,
+      "temperatura": 19.25,
+      "humedad": 52.0,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:35:00",
+      "aqi": 96.21,
+      "pm1": 29.32,
+      "pm25": 38.82,
+      "pm10": 51.56,
+      "temperatura": 19.32,
+      "humedad": 51.56,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:40:00",
+      "aqi": 93.18,
+      "pm1": 25.63,
+      "pm25": 37.28,
+      "pm10": 50.76,
+      "temperatura": 19.85,
+      "humedad": 52.0,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:45:00",
+      "aqi": 97.02,
+      "pm1": 28.34,
+      "pm25": 41.17,
+      "pm10": 58.31,
+      "temperatura": 19.45,
+      "humedad": 52.39,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:50:00",
+      "aqi": 95.96,
+      "pm1": 27.79,
+      "pm25": 37.78,
+      "pm10": 52.99,
+      "temperatura": 20.11,
+      "humedad": 52.85,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T09:55:00",
+      "aqi": 92.81,
+      "pm1": 27.7,
+      "pm25": 38.2,
+      "pm10": 49.07,
+      "temperatura": 19.42,
+      "humedad": 54.42,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:00:00",
+      "aqi": 91.52,
+      "pm1": 27.63,
+      "pm25": 38.92,
+      "pm10": 49.4,
+      "temperatura": 19.6,
+      "humedad": 52.99,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:05:00",
+      "aqi": 95.12,
+      "pm1": 29.18,
+      "pm25": 39.89,
+      "pm10": 51.61,
+      "temperatura": 19.71,
+      "humedad": 52.59,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:10:00",
+      "aqi": 91.15,
+      "pm1": 29.49,
+      "pm25": 39.98,
+      "pm10": 54.16,
+      "temperatura": 20.01,
+      "humedad": 52.73,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:15:00",
+      "aqi": 92.83,
+      "pm1": 30.1,
+      "pm25": 42.22,
+      "pm10": 57.48,
+      "temperatura": 19.54,
+      "humedad": 53.78,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:20:00",
+      "aqi": 92.42,
+      "pm1": 28.0,
+      "pm25": 39.6,
+      "pm10": 55.85,
+      "temperatura": 18.81,
+      "humedad": 52.36,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:25:00",
+      "aqi": 92.51,
+      "pm1": 27.93,
+      "pm25": 37.94,
+      "pm10": 52.97,
+      "temperatura": 19.1,
+      "humedad": 52.62,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:30:00",
+      "aqi": 91.64,
+      "pm1": 26.06,
+      "pm25": 36.26,
+      "pm10": 49.86,
+      "temperatura": 19.2,
+      "humedad": 52.63,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:35:00",
+      "aqi": 92.76,
+      "pm1": 28.44,
+      "pm25": 38.09,
+      "pm10": 52.23,
+      "temperatura": 19.21,
+      "humedad": 52.46,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:40:00",
+      "aqi": 91.78,
+      "pm1": 30.9,
+      "pm25": 41.95,
+      "pm10": 52.9,
+      "temperatura": 19.38,
+      "humedad": 51.88,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:45:00",
+      "aqi": 95.08,
+      "pm1": 28.3,
+      "pm25": 39.92,
+      "pm10": 58.38,
+      "temperatura": 19.64,
+      "humedad": 51.41,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:50:00",
+      "aqi": 90.3,
+      "pm1": 27.58,
+      "pm25": 38.02,
+      "pm10": 50.76,
+      "temperatura": 18.66,
+      "humedad": 54.4,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T10:55:00",
+      "aqi": 91.13,
+      "pm1": 29.73,
+      "pm25": 40.89,
+      "pm10": 53.19,
+      "temperatura": 20.77,
+      "humedad": 50.96,
+      "es_prediccion": false
+    },
+    {
+      "timestamp": "2026-05-17T11:00:00",
+      "aqi": 91.72,
+      "pm1": null,
+      "pm25": null,
+      "pm10": null,
+      "temperatura": null,
+      "humedad": null,
+      "es_prediccion": true
+    }
+  ]
+}
