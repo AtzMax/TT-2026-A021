@@ -22,11 +22,11 @@ Este proyecto desarrolla un **prototipo de sistema de detección de alertas temp
 
 El dashboard es la pieza central del sistema. Desde él es posible:
 
-- 📊 Visualizar datos meteorológicos (PM 2.5, PM 10, Temperatura, Humedad) en tiempo real
+- 📊 Visualizar datos meteorológicos (PM 2.5, PM 10, Temperatura, Humedad, aqi) en tiempo real
 - 🌡️ Ver imágenes de la cámara térmica
 - 🚨 Recibir alertas automáticas ante condiciones anómalas
-- 📁 Consultar el historial de registros almacenados en la base de datos
 - 📈 Analizar tendencias y comportamiento de las variables monitoreadas
+- 📈 Predicción del aqi en una hora
 
 ---
 
@@ -38,11 +38,11 @@ Capturan imágenes infrarrojas del entorno para identificar variaciones de tempe
 ### 🌦️ Estación Meteorológica Davis
 Sensor Davis utilizado para la recolección de variables ambientales como:
 - Temperatura y humedad
-- Velocidad y dirección del viento
 - Precipitación
 - Presión barométrica
 
 Toda la información del sensor es capturada de forma continua y almacenada para su análisis.
+La estación se encuentra en la Isla de Datos Urbanos en la Escuela Superior de Cómputo
 
 ---
 
@@ -83,7 +83,7 @@ TT-2026-A021/
 
 ## 👥 Equipo
 
-Proyecto Terminal 2 — Generación 2026
+Proyecto Terminal Final — Generación 2026
 **Instituto Politécnico Nacional — ESCOM**
 Número de proyecto: **2026-A021**
 
